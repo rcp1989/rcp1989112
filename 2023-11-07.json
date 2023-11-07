@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Santos",
+  "age": 27,
+  "address": {
+    "street": "Osozu Circle",
+    "city": "Cizkucfu",
+    "state": "AR",
+    "zip": "99139"
+  },
+  "contact": {
+    "phone": "(850) 844-8828",
+    "servicePhone": "800373519"
+  },
+  "birthday": "2003-10-09T12:00:05.253Z",
+  "ip": "207.222.115.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Nu rewijocaf jukone wu ijlegu mad cose wecikaf vuspirva zeafoini wat garike jawi efa wucuiw kucorguh ik cub. Mo jem wag folud isupe ukupige rintuflum nodebu zanjuna konwido mepzudse ejibpic cuag bap cemfihu cenac erhi kudtolaj. Vag po haeg duni abje zid ate li tesun ocunanos suzdub kajetejo pu are etamiv. Zuv pahoj is nad duuh sakis sugnu semokoka ov lespel covwi adako.",
+    "bio": "Elifece ebepozeka kuepgew um ozifivpiv ducvec zak juzed davivce jonzimjo fadfodko dewin potnag pa ar wupto tatgad rom. Jocpipme weupeeka fuuke rer pagozot rihsok sagid duzu igetam gozbu etwi pagni ep rurhi fe. Avuzoki puer uciamu sa hepi jid lapa pehut raca iwidejo dotnus kisras arogako wozzej gusuhol. Gi nupuvtom idavmep lizuboguz ju fo ruera kice uvi otizut kim usecepoz bunuwiw safij dapikol cuwuhu cif ajca. Ko hop jaez jig zidmef ka baboho ku esuemuto jelujiz liapi nudo uwta wuroofe."
+  },
+  "apiKey": "dd0ab21492a7e5ba7f6c4d6093fe276643020dd73c0386a3d44badbd61cf0b32",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
