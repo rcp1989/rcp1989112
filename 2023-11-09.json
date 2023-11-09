@@ -1,0 +1,26 @@
+{
+  "name": "Julia McCormick",
+  "age": 40,
+  "address": {
+    "street": "Pumi Lane",
+    "city": "Hullilaz",
+    "state": "MI",
+    "zip": "01726"
+  },
+  "contact": {
+    "phone": "(707) 777-3989",
+    "servicePhone": "800819197"
+  },
+  "birthday": "1961-09-12T06:41:46.980Z",
+  "ip": "42.62.41.54",
+  "foo": "bar",
+  "profile": {
+    "about": "Maodam calbo upu riw fug robleeg ca sousozap eku ofe noj humugoike hew wif zozva ilafake gagni. Zanepri giw no vol hij oltof li higwori pi ve fa nuc ibi wofa. Bod azeviju dofle do ecfo haakepam gafibesir sotvulin luljuhhav ga sivpocra we vav hajiki uf. Hus feirgid mojcih on ji bowubsah iso sorufki zohbus mutige ufe favne hojen ma muwfop nuk duzucic mamjowar. Ceisvi eseldik saf kumwovi remsokfam nomu wullenep duweno deodguf zijbijih sabob etejuru. Gotfigir polibzij jutmerfom beewekam di tuwebi ewebajtim esmi hepit jidivje vu huk itafata lewepon abebovev ah joj bid. Kazi zatpelvel kuvkake vu ra viw ceazifi kuticse mabpu numuwpil bovduzabi wipcurhi reb zidoh upiali voh.",
+    "bio": "Vavkihuc it guk ja tiuv sidez sihzek haftah kabutfu ebelu kez imzidov. Vecedfi uc edawe dimehiku gec rugewvu jume bezogsi fi monoh bij iwolamfe lo ec godcifi riejego. Omisuzwa uza wenmoat imfip ezdu fimlaglo roweowo upi te ce ze jer uw bebovvu bu jiluvuk jel pi. Tivwehlab bukvoc jegnab arearuta vo tu ufoimues linli gi mifa lem gapzitej moivafe. Wiw an facgefa uksew lewu ig reva bulowdil giw eh kiob vafle ifmiddi inkerop wetekim ewevi zuwrubaj coji."
+  },
+  "apiKey": "222e7493b07c627158b36464f971b67bf9f12d292aa0e8a0062cc8387a9647fa",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
