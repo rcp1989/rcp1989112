@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Cummings",
+  "age": 41,
+  "address": {
+    "street": "Huliv Park",
+    "city": "Bedatnoc",
+    "state": "IA",
+    "zip": "25132"
+  },
+  "contact": {
+    "phone": "(339) 715-8017",
+    "servicePhone": "800845439"
+  },
+  "birthday": "1966-12-13T19:37:00.708Z",
+  "ip": "89.123.158.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Ce radpas noumfo pudipsa zuakibu laf duvsef rot iguceca hu hehwe eh. Uzbid bik jefced fohjine po epnew pet uvotaf nerusus gop mavo ciktetgi lercim saz sakolsis. Ji saeje fe wup wopbibir voweek tebotpep sifosjud ho luvurfif ki fuude. Cicov rerja anacop sudewe nepiz focowin ci mid ihveoma ojti tiecfo rozi. Dal vuhtan nodmuik so ferevuf jawtis ful jume gam zasifojit bi utpewcic kave bocmawos gom. Pezuew muw piwe ohuwej pu hewirupot micino buf mece ucizi law hacazap liv omaero logfezku fuvehe puwow bunipi.",
+    "bio": "Zeh leppa ce le da vibsem ji oni tesicdo bunzifda nocuh etiljop una lah giwuk. Ko foskufpe iho ovuwij lamik likdokaz waugo asu up nisolawa ma ce haet muurisu zewoj potuvpuf icobi. Akwav fil bobmukpod hir de kes rok ebja vualasi tozarza tinunwa bocugcok beimame. Ocica mucfosuk ju on joli wud esgama hilaku fotnisu lumfob sowuka toraeb zo silatos menalci gopde nemfiz."
+  },
+  "apiKey": "4bd335e07aa52af29384f818c8078bdaa63b3f9e75261638378e5c202669fc2f",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
