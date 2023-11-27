@@ -1,0 +1,26 @@
+{
+  "name": "Micheal Weaver",
+  "age": 34,
+  "address": {
+    "street": "Azumap Way",
+    "city": "Nuterzum",
+    "state": "IL",
+    "zip": "56331"
+  },
+  "contact": {
+    "phone": "(942) 965-9032",
+    "servicePhone": "800265754"
+  },
+  "birthday": "2003-12-24T11:21:45.308Z",
+  "ip": "143.77.3.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Wuizaahu dejzaeti ewori ipeezuba popbakpep vife alu ebu vuhcalu nalcuhiv an gusehoho. Fewiviz zanasze larore jozgu rim mutfubo culiz ze pu raglog bagfel pusfe jel ca. Roernez kozje ove kovpi em bopon gob fo diremroh piewke tef si dutese dodeuc vitoga zatbezdi wiletbum zasepak. Hopoj no bafventep iwvi ida hikli em sohili retuw ezupim no firem ujenpe sugemeh zofhutos halko. Demnil eg miid lowwig jasgo nu suhrir vucibgo wifakne ha sachid tiohuzol movow watifez.",
+    "bio": "Wid tok petcuabe pun dildi aboida puc fufi aleoko ze cusub kukotuv mudit citra jiecapit mibi ku nabe. Diufig matvaj wu acilaur zekopeg janjodo vucup innojwet kof rawo musejdo tidbu subweohu ce ti um ta. Vum fico hewota todanfa iwnen evezicdoz te rohamop an hahlop safpurbom upsen lej buzjuv bisuivi."
+  },
+  "apiKey": "c0221ffc93247e88d79c597365829a41c57f3d348779964f6c73243baa6295c5",
+  "currency": {
+    "code": "CUC",
+    "name": "Cuba Convertible Peso"
+  }
+}
