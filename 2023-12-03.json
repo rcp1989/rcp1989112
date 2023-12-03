@@ -1,0 +1,26 @@
+{
+  "name": "Roger Barker",
+  "age": 46,
+  "address": {
+    "street": "Wili Junction",
+    "city": "Liawouj",
+    "state": "MD",
+    "zip": "53262"
+  },
+  "contact": {
+    "phone": "(487) 485-7371",
+    "servicePhone": "800336987"
+  },
+  "birthday": "2002-05-15T22:51:34.559Z",
+  "ip": "226.60.189.21",
+  "foo": "bar",
+  "profile": {
+    "about": "Ujajap elecug tuvbu gojtouc tugur jo ihu vikeso lajgeami afirettiv ruguptun zo hik. Uwo ifejonegu wagmat nipi ojodil kokoz bavwaf rueto lohmiuco umudiagu vozlagga matvac baklinig wevujma sa pajewtus obto kepa. Jun eniru tel zesasouv donitdo irugien vuojki fenje jo nonoso ba inepulmuk zubi heziv.",
+    "bio": "Kuinbuw muwentig lor biscej boji momave se kensu uwagi laewuez dezihevig tapizag. Gibese rin se jebmugew pegumboh cu ji ihte upabo ga uvjuh liuco wunnati oci ganez. Jeh wawaca masuzhuj ojagisfu ude donven zu sakfu daha gokjukmol eru dud deli gulsiame igolma ri."
+  },
+  "apiKey": "f3a697551d8a80bcbbac3b227e01a5e9d848713aee1c208ac009efed9f4b4f17",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
