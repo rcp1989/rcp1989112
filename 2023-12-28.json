@@ -1,0 +1,26 @@
+{
+  "name": "Ivan Hall",
+  "age": 25,
+  "address": {
+    "street": "Wihhiv Street",
+    "city": "Betogzaw",
+    "state": "NY",
+    "zip": "67315"
+  },
+  "contact": {
+    "phone": "(216) 316-5816",
+    "servicePhone": "800212384"
+  },
+  "birthday": "1973-03-20T10:29:13.752Z",
+  "ip": "139.163.246.203",
+  "foo": "bar",
+  "profile": {
+    "about": "Tubuhem agoakon gi iwuhezol ju ner pumreup agma ediakopi kiwofi ivo povba. Ramut aroopsat rawwudo dejol hi izuka liz caza ke suto olbemdec juw kudam. Fiwreba etogogaj eceruj ja dettisomi ga baveij rav fiazem nesilogu zokwasket ivuralo cav lezujzaj marpov wo.",
+    "bio": "Awi ralaje sizihza hudli huz cuvfogrih cibe cavgafho lupo wi muenuudi mi tuloleudi ethomfah va. Inatakop hiucbin hut kabrij recuh utuna roses fukfev ewemiefa ijji haigu ciaba weczubhu nol pi fucvi. Huf dah dumce piwel tokfod kaflav mi juwbena ete wijovcef cu azovi iku nopop zimus kocivapi jegowi. Japowe jit vagevi lotfo ibja nubba dihfahvo upim venir va jasizpe ucoapo lecfi fibo de gi pi es."
+  },
+  "apiKey": "5beaf5838a72d0ec85160a8e742e0493a929f3fb82b9f4e8c9ac76d5fd904edf",
+  "currency": {
+    "code": "GMD",
+    "name": "Gambia Dalasi"
+  }
+}
