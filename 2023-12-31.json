@@ -1,0 +1,26 @@
+{
+  "name": "Gregory Hunt",
+  "age": 44,
+  "address": {
+    "street": "Lofeh Terrace",
+    "city": "Oponuesa",
+    "state": "CT",
+    "zip": "28167"
+  },
+  "contact": {
+    "phone": "(964) 400-4654",
+    "servicePhone": "800145675"
+  },
+  "birthday": "2003-10-24T10:12:38.803Z",
+  "ip": "103.174.89.187",
+  "foo": "bar",
+  "profile": {
+    "about": "Hutnikij eros jur deobaigo tiz minpafgo cosdeg watewes godiw jov medem mutesil viporepuj tojo coho kije. Pihevur eno hez lul bif gegti heugi nigwa nebidu nab se roudo. Doelpi ru rufenew kujpiz fucnorle cit hof iznif ocgawub geluj puow punne pat.",
+    "bio": "Lu te zebtufca izdejap li ago poslag wenwir kadeoro fi iwiale bubarufe eroapa mevgizot sipwopnor kac honronvo. Hor opcetcoh zapu dazrud ve socrolbig gof janewaboc ehoz soglel rejvevwa kueveucu. Apo hav gi kokivgak pefev vovhur pavefoc rertihig so nah veradag pew zolti wurboho. Rabip zamebmuh decmog behmum nuonu ugopoz ataji zeliku holerat gevazi gefoir sujodo mazit."
+  },
+  "apiKey": "441238f860a003828ef6672813d28944c11e19fa42919dd2ee73fb58888f179d",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
