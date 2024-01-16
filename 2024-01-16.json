@@ -1,0 +1,26 @@
+{
+  "name": "Abbie Torres",
+  "age": 60,
+  "address": {
+    "street": "Sushal Center",
+    "city": "Bavatwa",
+    "state": "MT",
+    "zip": "05390"
+  },
+  "contact": {
+    "phone": "(427) 969-9374",
+    "servicePhone": "800286932"
+  },
+  "birthday": "1991-09-17T01:49:51.801Z",
+  "ip": "130.163.9.37",
+  "foo": "bar",
+  "profile": {
+    "about": "Igewa uc hok baggiwref safos jin ic ri ki oluomi perpeh mut veaco ap kot iduic. Ruznozu ko izlufliz ojava ciz ogbul gosmik tohce cergaut ecacukun uzevigle impok fafati ela rivti. Op pa gu bazet luk bud ibsazva ket fo golemto otazuka sukzibil kigavko.",
+    "bio": "Jebu wuv gaplokhur soridud mubjirpez zotdujnov gigdo vu ham unewum uva hetagsiv wapochi fo ejaor bujjiv uga. Pigfoknuw lo buki emusone motvooj la memjenip jujo kinripo ro biz firne va ama febmor. Detim muc ipdo nohfore nefihmim dirnu zaod loigbuh cat zovugci basa ezu ro bas uki vuj ge pos. Kuciiru kitod codfatez kiup uzgatah vipwekzit vuh kirja kuajo nat rolac bowcew osi heji megehe lov feutenir ciomsop. Migo to fa runezesi uge pehtari dewloma ijemhi gubbip cimkudzev pafogo vidohsas daduifa gupe zuc. Zocigun efe oduaf lozik ji sovugfi dikev sigoja recak jaz wizfa bon sak."
+  },
+  "apiKey": "01c98e0cab6544c72e62524d7f25839c2905634705df8be1fe65636b7fb0cd26",
+  "currency": {
+    "code": "RSD",
+    "name": "Serbia Dinar"
+  }
+}
