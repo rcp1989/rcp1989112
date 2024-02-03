@@ -1,0 +1,26 @@
+{
+  "name": "Luis Leonard",
+  "age": 44,
+  "address": {
+    "street": "Erid Ridge",
+    "city": "Veviica",
+    "state": "NH",
+    "zip": "48089"
+  },
+  "contact": {
+    "phone": "(712) 530-1693",
+    "servicePhone": "800166214"
+  },
+  "birthday": "1964-09-30T07:54:40.291Z",
+  "ip": "70.14.0.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Ze funus vijod ra hazemi sategdo nuze levuam jid web sullujre ci ovelinki ta epvewsu pikmu. Wo dakizneh cobu sim vav wiorleh dakogtof aci zibomaw suftunun tekif birajsew govbomhib. Uzkuduk pas mof poko umina nimibe bawod gofrovow if osume bote sufwas anutim. Coez une labuju ajek zivsi isocegvi faka ritweli wat warni fasfeis ezide dokak peigguf kikdofaz kaz rume.",
+    "bio": "Jura um suw towkauz gil epaajpof hogjije soghec sona jo ubomin corak. Goke bu lamrohus giwvuwe ajo cikuval tab githovun fi budoffom ruwukiocu pos. En pog vavca zuz ocewa dukhawep miricus eno fiw jidi va ciega cip."
+  },
+  "apiKey": "41c28bbde2e77436ce9a2cc6308e98d1f8523ff3f9ebc8ecf28817fc233b069e",
+  "currency": {
+    "code": "NZD",
+    "name": "New Zealand Dollar"
+  }
+}
