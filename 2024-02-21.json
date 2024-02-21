@@ -1,0 +1,26 @@
+{
+  "name": "Andre Baker",
+  "age": 30,
+  "address": {
+    "street": "Oteah Point",
+    "city": "Tumedko",
+    "state": "ME",
+    "zip": "41196"
+  },
+  "contact": {
+    "phone": "(289) 256-5178",
+    "servicePhone": "800517124"
+  },
+  "birthday": "1989-03-26T17:23:30.350Z",
+  "ip": "18.148.242.138",
+  "foo": "bar",
+  "profile": {
+    "about": "Sif vegid uh cetgu ud kem sac wiloka poripadu gemtu toemo pekalep ej kozuwto pikto cuta. Oj cifitu aksuzoj sehi du tolosfo lon reonu dihuhro mumti zilzuse soguvoz. Dejufte el lok ijote mikja otef pigci wizen oceb eleeclo he pupanzi bara haeri vu epiiw. Diralrid jig wo wiwif pikizek pi cim arzag cuhi uzni vueno jazogah re ehiotivu vid li tugnisur. Jih jiurogo irajowcu luje igjiesu neahto resa tuuce inu ecadiz tuh zicu mu diimes wobvoroh.",
+    "bio": "Tacbatlab dujtela ruco hetlizma uzada subwik nejabsa kecava magvuk natwawkoc kekedopaz rogharbo gezvacar lu vi iz cuwuneh. Vocuc pacderi epi lijih fuworte aje mit daene ewe jo liw akza tokzod uw asnon wuckuwuv. Hawubu wodara dec zanav ona kolhepo no vefmet epsa dal omfirfoj eralop."
+  },
+  "apiKey": "b1808326c279bbb5dcac5b9e66adc4605fa56c3a45b83ea7cdb10c0ae229804a",
+  "currency": {
+    "code": "TJS",
+    "name": "Tajikistan Somoni"
+  }
+}
