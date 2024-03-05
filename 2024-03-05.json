@@ -1,0 +1,26 @@
+{
+  "name": "Lilly Norris",
+  "age": 43,
+  "address": {
+    "street": "Ohade Heights",
+    "city": "Ipgorus",
+    "state": "UT",
+    "zip": "87052"
+  },
+  "contact": {
+    "phone": "(569) 933-1911",
+    "servicePhone": "800694621"
+  },
+  "birthday": "1968-02-20T19:24:19.240Z",
+  "ip": "116.81.254.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Deno tu uw bazkal zitob rosnu pecfajde da bemiiw renmebve hahu zuzelva tir ot nok jufar heertic dinsebe. Kinsujca nawew zimig zeh lohe pihjazru ar tonpofise bumgob ped fecnof vudvuwpon hucujre ud. Ju ba muud mepnu puzobvu vo si wimil wobci hipev ku otanovca aropotes. Sihbo voica nodfekli mubso pu mamrofdog jihheki ra egacgi wima vup dabzufu von dablid tajihe maza. Lohit teg men rac deob nakcepap buwgenato nelud wokhiedi limvus ane niwe dalapkat nidojuk. Minvo nef sa bi seelohe dukzorih mer lim rol jopefgu ikohohub tav babaip felgo vici.",
+    "bio": "Ku gi haobwok semugo armat ditlipif cu navjecono nevpo hauzju inamijeja bu si siza tolluc. Biffios log vogme anikojka rudaak ukna boesa utugokec jo ovolaw wohzu ka hercedsi mos gawofu zuzdegek zidusgow. Dat ojmo nohfud ries zib javo ne gumi vovimu runawpe waw jojozow icihateb kavat ci zob zi. Puca rin pigehug jarfi ze vosen ga wepegvu ubvarab ziltublu si uru hutipgag wicanvoh umi."
+  },
+  "apiKey": "613d9400d5b9cc6dc04f5328a18c6b8da3b00fc726124f318e158b8c8f15223d",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
