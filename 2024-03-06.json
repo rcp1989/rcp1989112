@@ -1,0 +1,26 @@
+{
+  "name": "Chase Baker",
+  "age": 41,
+  "address": {
+    "street": "Tinzoc Street",
+    "city": "Agzedab",
+    "state": "CT",
+    "zip": "52755"
+  },
+  "contact": {
+    "phone": "(264) 993-7476",
+    "servicePhone": "800468537"
+  },
+  "birthday": "1977-12-29T13:43:01.609Z",
+  "ip": "155.87.109.56",
+  "foo": "bar",
+  "profile": {
+    "about": "Ciz zihi lu mojaf ku ica uvuca ikiona zuidiov ih cejuv tewusu lec cejlefa piti inimawis pe. Ze weahiim cevev migu zez buw pepo uwupuipi imubel decani ugnum kevaf huw linel zobug. Agzesuv tip isina baw koisiuce bu liutu magmoev ehafod afeobama ze evkiz bisi tu nu mize gapfimi. Me tizedo tob hif hezsifo jec puud afufujko sihub piseko ripgeg nobudem. Ditogid iza avzohzes do ga fup meftecot udebah kutkup loar ohkor vosevi wurco pe ejo puwrobkuv tuce.",
+    "bio": "Kat dob mukos lojatonik nucig nok voujeta mudhoho fuzral hud ubsal puslugsel nos. Ve bowwi pun li edkezus son cagpo udugoag kab fi vunlimrav et zuz vozasure tab huhrib ifizima. Tuseka midovi kifgacse wev jakro jo mo okaje sinaac dekjeove ajusimube rooh jigto daaci midejupo. Doebpo bapmac ol azeborfe otcov huv likoza ga zas utinuho zebbejze sivur vucbud nura nahkuvo vifoz ciwduzo tob."
+  },
+  "apiKey": "6811db4f751b6fd92ca6c96a6968edfc136c70b37fba59a88bf4c76ba93b069b",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}
