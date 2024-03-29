@@ -1,0 +1,26 @@
+{
+  "name": "Bessie Stevens",
+  "age": 35,
+  "address": {
+    "street": "Radli Park",
+    "city": "Wamrake",
+    "state": "DC",
+    "zip": "65414"
+  },
+  "contact": {
+    "phone": "(522) 421-9724",
+    "servicePhone": "800453379"
+  },
+  "birthday": "1961-07-07T02:35:37.826Z",
+  "ip": "222.43.240.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Rowjawa naerowag ge ojilu vemif vucap moegpun pur kika tab we mu ti gijabi sovor pahe honneg fake. Lahu arhofis avaif kudkioba kuf hatutob paut iw be ja lec zu. Jacvoco bol pepde umzinva vo ranif sawe nimed uv cuszoji zilve beuva wu valil faclijug booha zifgi cudawfe.",
+    "bio": "Zukjor gamid bal ormucek lubobzuf tumro owi nujo sarkehsip voef na wuflufeb ke. Ukpazu hekozapat zobaup wihgaf li zu idouniazu ket lipuzcuh daati nechul lujgama ufiipamuv got mi fopsojo fokbe. Rabebbap opu nuibto wewe haducpo ge biplu tavo fot cobget ha okbogji abgage ra pon tiunes ko. Momi dekha jimum pufo rurko uzifib rilvabha tip cicmeliz tezu du poricvom as nam ewe lu ciibizu."
+  },
+  "apiKey": "546962ff821893ec96ba657a79498bdb1634ebc9979facbafc84dc03ba2972e3",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
