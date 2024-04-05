@@ -1,0 +1,26 @@
+{
+  "name": "Mark Moreno",
+  "age": 19,
+  "address": {
+    "street": "Azafic Way",
+    "city": "Ufudenu",
+    "state": "CA",
+    "zip": "44307"
+  },
+  "contact": {
+    "phone": "(409) 480-6320",
+    "servicePhone": "800547738"
+  },
+  "birthday": "1965-12-28T08:03:25.909Z",
+  "ip": "252.248.83.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Sokon co olamecvor os kalwusjo zof fuwjoc buchuv wi dipusnu amagim egbeh. Kenevnam ohca zedlan fop faivma lev wifepze ila moniuw saw dankoori emeiwa moci kadloz vav faruz ed majow. Oratuw vumpo wajezzaf nafgobe onizas mulostoj mip tehporif komha bofeto bifne wakuvu efowu. Coog avoikhos jo kitzuv pikinitot mapa fuabidu pub cum ko helha uruwag zi puc. Ziziru ziku ho wi epifegaj zutap ohoj goglafcof suhob zeanode juj veuvo tutsejce guc fozgoobo hu.",
+    "bio": "Fecidki avomuk tos rog obhejiv bestop katoblil eho so zi osorekja kamoj luk umnonbi ru girpi. Utioboolu beivibeh za habak hehekit ekuwenmev asewu da lawe lef al ajogod tilhu. Ri efuvonek wugape koohzil fizofe ruuh kun ki wep ewo zis wasziv ferup aluvis duweb podin rim pidoppup. Lehen copruusu fosic lo womra eri azu vef puhavosaz ditesapo visodem moco mital boz arbov je."
+  },
+  "apiKey": "e4e91a36eab09e7369e42281a941dfa36bdf56252cc7e5c8ed30b118ba12df6b",
+  "currency": {
+    "code": "GNF",
+    "name": "Guinea Franc"
+  }
+}
